@@ -9,8 +9,8 @@
 - #### :rocket: [Font Pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120)
 - #### :rocket: [Fonts and Colours](https://support.squarespace.com/hc/en-us/articles/212277957-Selecting-the-right-fonts-and-colors)
 - #### :rocket: [The Futur - 10 rules to help you rule type](https://www.youtube.com/watch?v=QrNi9FmdlxY&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=12&t=0s)
-- #### :rocket: [Beginning Graphic Design: Typography](https://www.youtube.com/watch?v=sByzHoiYFX0&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=9&t=0s)
-- #### :rocket: [6 Typography Golden Rules](https://www.youtube.com/watch?v=za8ERlMchUE&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=7&t=0s)
-- #### :rocket: [10 Fonts You MUST USE](https://www.youtube.com/watch?v=iniUd-NZ-T8&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=5&t=0s)
+- #### :rocket: [GCFLearnFree.org - Beginning Graphic Design: Typography](https://www.youtube.com/watch?v=sByzHoiYFX0&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=9&t=0s)
+- #### :rocket: [Satori Graphics - 6 Typography Golden Rules](https://www.youtube.com/watch?v=za8ERlMchUE&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=7&t=0s)
+- #### :rocket: [Satori Graphics - 10 Fonts You MUST USE](https://www.youtube.com/watch?v=iniUd-NZ-T8&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=5&t=0s)
 
 
