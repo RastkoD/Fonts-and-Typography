@@ -14,5 +14,6 @@
 - #### :rocket: [Satori Graphics - 10 Fonts You MUST USE](https://www.youtube.com/watch?v=iniUd-NZ-T8&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=5&t=0s)
 - #### :rocket: [39 best logo fonts](https://99designs.com/blog/logo-branding/logo-fonts/)
 - #### :rocket: [50 Modern Fonts](https://visme.co/blog/modern-fonts/), :rocket: [More Modern Fonts](https://www.canva.com/learn/modern-fonts/)
+- #### :rocket: [60 free fonts for minimalist designs](https://www.canva.com/learn/minimalist-font/)
 
 
