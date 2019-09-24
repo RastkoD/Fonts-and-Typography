@@ -7,6 +7,7 @@
 - #### :rocket: [Typography Guide for Beginners](https://uxplanet.org/typography-in-ui-guide-for-beginners-7ee9bdbc4833)
 - #### :rocket: [What is Typography](https://www.creativebloq.com/typography/what-is-typography-123652)
 - #### :rocket: [Design Your Own Typeface](https://www.creativebloq.com/typography/design-your-own-typeface-8133919)
+- #### :rocket: [Flux - How To Choose Fonts](https://www.youtube.com/watch?v=obZX8oIjia4)
 - #### :rocket: [Font Pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120)
 - #### :rocket: [Fonts and Colours](https://support.squarespace.com/hc/en-us/articles/212277957-Selecting-the-right-fonts-and-colors)
 - #### :rocket: [The Futur - 10 rules to help you rule type](https://www.youtube.com/watch?v=QrNi9FmdlxY&list=PLxuZL_AXIjXY3eddIRcf70tD_R-lzrUzj&index=12&t=0s)
