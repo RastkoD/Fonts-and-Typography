@@ -17,5 +17,6 @@
 - #### :rocket: [39 best logo fonts](https://99designs.com/blog/logo-branding/logo-fonts/)
 - #### :rocket: [50 Modern Fonts](https://visme.co/blog/modern-fonts/), :rocket: [More Modern Fonts](https://www.canva.com/learn/modern-fonts/)
 - #### :rocket: [60 free fonts for minimalist designs](https://www.canva.com/learn/minimalist-font/)
+- #### :rocket: [tutvid - 10 Tips and 10 Great Font Pairings](https://tutvid.com/web-graphic-design-inspiration/10-tips-10-great-font-pairings/)
 
 
