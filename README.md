@@ -18,5 +18,6 @@
 - #### :rocket: [50 Modern Fonts](https://visme.co/blog/modern-fonts/), :rocket: [More Modern Fonts](https://www.canva.com/learn/modern-fonts/)
 - #### :rocket: [60 free fonts for minimalist designs](https://www.canva.com/learn/minimalist-font/)
 - #### :rocket: [tutvid - 10 Tips and 10 Great Font Pairings](https://tutvid.com/web-graphic-design-inspiration/10-tips-10-great-font-pairings/)
+- #### :rocket: [awwwards - Digital Designers’ Secrets: Top Fonts](https://www.awwwards.com/digital-designers-secrets-top-fonts.html) :grey_exclamation: :grey_exclamation: :grey_exclamation:
 
 
