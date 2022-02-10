@@ -4,6 +4,9 @@
 #### :grey_exclamation: Before you use a font in a personal or commercial project, do yourself a favor - look up the license for that font :grey_exclamation:
 
 ## Typography Guides:
+- #### :rocket: [awwwards - Free Fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- #### :rocket: [Typography Principles ObysAgency](https://typographyprinciples.obys.agency/)
+- #### :rocket: [awwwards - Typography Inspiration](https://www.awwwards.com/mireia_ortega/collections/typography-inspiration/)
 - #### :rocket: [Typography Guide for Beginners](https://uxplanet.org/typography-in-ui-guide-for-beginners-7ee9bdbc4833)
 - #### :rocket: [What is Typography](https://www.creativebloq.com/typography/what-is-typography-123652)
 - #### :rocket: [Design Your Own Typeface](https://www.creativebloq.com/typography/design-your-own-typeface-8133919)
