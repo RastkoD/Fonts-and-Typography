@@ -1,7 +1,7 @@
 # Fonts and typography
 
 #### Font collection and typography guidelines (beginner)
-#### :grey_exclamation: Before you use a font in a personal or commercial project, do yourself a favor -- look up the license for that font :grey_exclamation:
+#### :grey_exclamation: Before you use a font in a personal or commercial project, do yourself a favor - look up the license for that font :grey_exclamation:
 
 ## Typography Guides:
 - #### :rocket: [Typography Guide for Beginners](https://uxplanet.org/typography-in-ui-guide-for-beginners-7ee9bdbc4833)
